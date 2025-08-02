@@ -1,2 +1,3 @@
-# bootstrap-foundation
-Pluralsight course: Bootstrap Foundation by Gill Cleering
+# Bootstrap Foundation
+* by Gill Cleering *
+## # Pluralsight
